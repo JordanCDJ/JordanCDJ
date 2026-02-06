@@ -13,7 +13,6 @@ Methodologies: Statistical modelling, ETL pipelines, and database management.
 
 Cloud & Databases
 Cloud Platforms: AWS, Azure.
-
 Database Management: SQL Server (versions 7.0 through 2019).
 
 Certifications
